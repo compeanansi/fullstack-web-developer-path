@@ -4,81 +4,73 @@
 
 | Progress | Type | Item | Project(s) | Date |
 | :------: | ------ | ------ | ------------ | :-------: |
-|  | Course |  [How to Make a Website with NameCheap Coursee](https://www.codecademy.com/learn/make-a-website) - course by CodeAcademyy  | [Common Cents Party](https://gist.github.com/codecademydev/a8211a5e9ef2cbe5b6b70200c6eb82ee)   |   |
-|  | Course |  [Responsive web design](https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/) - FCC | | | 
-|  | Challenge Game |  [CSS Diner](http://flukeout.github.io) - For practice with CSS. It’s a fun CSS challenge game  |    |  |
-|  | Tutorial |  [LearnLayout](http://learnlayout.com) - an interactive tutorial that shows how to create layouts with HTML and CSS  |    |   |
-|  | Project | FCC Front End Project - [Build a Tribute page](https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-tribute-page) |   |    |
-|  | Project | FCC Front End Project - [Build a Survey form](https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-survey-form) |   |    |
-|  | Project | FCC Front End Project - [Build a Product Landing Page](https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-product-landing-page) |   |    |
-|  | Project | FCC Front End Project - [Build a Technical Documentation page](https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-technical-documentation-page) |   |    |
-|  | Project | FCC Front End Project - [Build Your Portfolio](https://www.freecodecamp.com/challenges/build-a-personal-portfolio-webpage) |   |    |
-|  | Challenge | Practice HTML and CSS and create a basic progress portfolio |   |    |
-|  | Course | Learn to use [Command line](https://commandlinepoweruser.com/)|  ||
-|  | Course | Learn Version Control (Git) - [Git course @Codeschool](https://try.github.io/levels/1/challenges/1) OR [Udacity - Git and Github](https://in.udacity.com/course/how-to-use-git-and-github--ud775)|   |    |
-|  | Course | Learn Flexbox - [Flexbox.io](https://flexbox.io/) OR [Flexboxfroggy](http://flexboxfroggy.com/) |   |    |
+|  | Course | CodeAcademy - [How to Make a Website](https://www.codecademy.com/learn/make-a-website)  |    |   |
+|  | Course | Shay Howe - [Learn to Code HTML & CSS ](https://learn.shayhowe.com/html-css/)  |    |   |
+|  | Course | FCC - [Responsive Web Design](https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/) | | | 
+|  | Tutorial | [LearnLayout](http://learnlayout.com)  |    |   |
+|  | Project | FCC - [Build a Tribute page](https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-tribute-page) |   |    |
+|  | Project | FCC - [Build a Survey form](https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-survey-form) |   |    |
+|  | Project | FCC - [Build a Product Landing Page](https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-product-landing-page) |   |    |
+|  | Project | FCC - [Build a Technical Documentation page](https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-technical-documentation-page) |   |    |
+|  | Project | FCC - [Build Your Portfolio](https://www.freecodecamp.com/challenges/build-a-personal-portfolio-webpage) |   |    |
+|  | Course | [Command line](https://commandlinepoweruser.com/)|  ||
+|  | Course | Udacity - [Git and Github](https://in.udacity.com/course/how-to-use-git-and-github--ud775) |   |    |
+|  | Course | Wes Bos - [Flexbox.io](https://flexbox.io/) |   |    |
 |  | Course | Learn Sass - [Sass-guide](http://sass-lang.com/guide) OR [Sass Tutorials](http://www.sassshop.com/#/) |   |    |
-|  | Course | Udemy course - Advanced CSS and Sass: Flexbox, Grid, Animations and More!- [Advanced CSS and Sass](https://www.udemy.com/share/101WmqBEYTcFpRQ3Q=/) |   |    |
+|  | Course | Udemy - [Advanced CSS and Sass](https://www.udemy.com/share/101WmqBEYTcFpRQ3Q=/) |   |    |
 |  | Challenge | Refactor the portfolio site and Base Apparel coming soon page using Advanced CSS, Flexbox and Sass |   |    |
 
 ## Javascript
 
 | Progress | Type | Item | Project(s) | Date |
 | :------: | ------ | ------ | ------------ | :-------: |
-| | Course | [Watch and Code - Practical Javascript](https://watchandcode.com/p/practical-javascript) |  |    |
-|   | Book | [Eloquent Javascript](http://eloquentjavascript.net/) |   |    |
-|   | Project | Do FCC [Javascript Basic Algorithm Challenges](https://www.freecodecamp.org/map) |   |    |
-|  | Book | Learn DOM manipulation - [DOM Enlightenment](http://domenlightenment.com/)  |   |    |
-|  | Project | Make a todo list webapp |   |    |
-|   | Course | Learn [AJAX](https://in.udacity.com/course/asynchronous-javascript-requests--ud109) |   |    |
-|   | Project | FCC Intermediate Project - [Build a Random Quote Generator](https://www.freecodecamp.com/challenges/build-a-random-quote-machine) |   |    |
-|   | Project | FCC Intermediate Project - [Build a Local Weather App](https://www.freecodecamp.com/challenges/show-the-local-weather) |   |    |
-|   | Project | FCC Intermediate Project - [Build a Wikipedia Viewer](https://www.freecodecamp.com/challenges/build-a-wikipedia-viewer) |   |    |
-|   | Project | FCC Intermediate Project - [Build a Twitch TV Viewer](https://www.freecodecamp.com/challenges/use-the-twitchtv-json-api) |   |    |
-|   | Course | Learn ES6 - [Wes Bos - ES6 for Everyone](https://es6.io/) (Paid) OR [ES6 Crash Course](https://laracasts.com/series/es6-cliffsnotes)|
-|   | Course | [Javascript30](https://javascript30.com/) |   |    |
-|   | Project | Do FCC [Javascript Intermediate Algorithm Challenges](https://www.freecodecamp.org/map) |   |    |
-|   | Project | FCC Advanced Project - [Build a Javascript Calculator](https://www.freecodecamp.com/challenges/build-a-javascript-calculator) |   |    |
-|   | Project | FCC Advanced Project - [Build a Pomodoro Clock](https://www.freecodecamp.com/challenges/build-a-pomodoro-clock) |   |    |
-|   | Project | FCC Advanced Project - [Build a Tic Tac Toe game](https://www.freecodecamp.com/challenges/build-a-tic-tac-toe-game) |   |    |
-|   | Project | FCC Advanced Project - [Build a Simon Game](https://www.freecodecamp.com/challenges/build-a-simon-game) |   |    |
-|   | Milestone | FreeCodeCamp Front End Certificate |   |    |
-|   | Course | [Optional] [JavaScript: Understanding the Weird Parts](https://www.udemy.com/understand-javascript/) (Paid) |   |
-|   | Book | [YDKJS: Up & Going](https://github.com/getify/You-Dont-Know-JS/blob/master/up%20&%20going/README.md#you-dont-know-js-up--going) |   |    |
-|   | Book | [YDKJS: Scope & Closures](https://github.com/getify/You-Dont-Know-JS/blob/master/scope%20&%20closures/README.md#you-dont-know-js-scope--closures) |   |    |
-|   | Book | [YDKJS: this & Object Prototypes](https://github.com/getify/You-Dont-Know-JS/blob/master/this%20&%20object%20prototypes/README.md#you-dont-know-js-this--object-prototypes) |   |    |
-|   | Book | [YDKJS: Types & Grammar](https://github.com/getify/You-Dont-Know-JS/blob/master/types%20&%20grammar/README.md#you-dont-know-js-types--grammar) |   |    |
-|   | Book | [YDKJS: Async & Performance](https://github.com/getify/You-Dont-Know-JS/blob/master/async%20&%20performance/README.md#you-dont-know-js-async--performance) |   |    |
-|   | Book | [YDKJS: ES6 & Beyond](https://github.com/getify/You-Dont-Know-JS/blob/master/es6%20&%20beyond/README.md#you-dont-know-js-es6--beyond) |   |    |
-
+|   | Course | Watch and Code - [Practical Javascript](https://watchandcode.com/p/practical-javascript) |  |    |
+|   | Book | Eloquent Javascript - [A Modern Introduction to Javascript](http://eloquentjavascript.net/) |   |    |
+|   | Project | FCC - [Javascript Basic Algorithm Challenges](https://www.freecodecamp.org/map) |   |    |
+|   | Book | DOM Enlightenment - [Learn DOM manipulation](http://domenlightenment.com/)  |   |    |
+|   | Project | Make a todo list webapp |   |    |
+|   | Course | Udacity - [AJAX](https://in.udacity.com/course/asynchronous-javascript-requests--ud109) |   |    |
+|   | Project | FCC - [Build a Random Quote Generator](https://www.freecodecamp.com/challenges/build-a-random-quote-machine) |   |    |
+|   | Project | FCC - [Build a Local Weather App](https://www.freecodecamp.com/challenges/show-the-local-weather) |   |    |
+|   | Project | FCC - [Build a Wikipedia Viewer](https://www.freecodecamp.com/challenges/build-a-wikipedia-viewer) |   |    |
+|   | Project | FCC - [Build a Twitch TV Viewer](https://www.freecodecamp.com/challenges/use-the-twitchtv-json-api) |   |    |
+|   | Course | Lara Casts - [ES6 Crash Course](https://laracasts.com/series/es6-cliffsnotes)|
+|   | Course | Wes Bos - [Javascript30](https://javascript30.com/) |   |    |
+|   | Project | FCC - [Build a Javascript Calculator](https://www.freecodecamp.com/challenges/build-a-javascript-calculator) |   |    |
+|   | Project | FCC - [Build a Pomodoro Clock](https://www.freecodecamp.com/challenges/build-a-pomodoro-clock) |   |    |
+|   | Project | FCC - [Build a Tic Tac Toe game](https://www.freecodecamp.com/challenges/build-a-tic-tac-toe-game) |   |    |
+|   | Project | FCC - [Build a Simon Game](https://www.freecodecamp.com/challenges/build-a-simon-game) |   |    |
+|   | Book | YDKJS - [Up & Going](https://github.com/getify/You-Dont-Know-JS/blob/1st-ed/up%20&%20going/README.md) |   |    |
+|   | Book | YDKJS - [Scope & Closures](https://github.com/getify/You-Dont-Know-JS/blob/1st-ed/scope%20&%20closures/README.md) |   |    |
+|   | Book | YDKJS - [this & Object Prototypes](https://github.com/getify/You-Dont-Know-JS/blob/1st-ed/this%20&%20object%20prototypes/README.md) |   |    |
+|   | Book | YDKJS - [Types & Grammar](https://github.com/getify/You-Dont-Know-JS/blob/1st-ed/types%20&%20grammar/README.md) |   |    |
+|   | Book | YDKJS - [Async & Performance](https://github.com/getify/You-Dont-Know-JS/blob/1st-ed/async%20&%20performance/README.md) |   |    |
+|   | Book | YDKJS - [ES6 & Beyond](https://github.com/getify/You-Dont-Know-JS/blob/1st-ed/es6%20&%20beyond/README.md) |   |    |
 
 ## React
-
 | Progress | Type | Item | Project(s) | Date |
 |:------:|------|------|------------|:-------:|
-|   | Course | Learn React - [React For Beginners - Wes Bos](https://reactforbeginners.com/) (Paid) or [React Fundamentals - Tyler Mcginnis](https://reacttraining.com/online/react-fundamentals) (Paid) OR [Learn React @Egghead.io](https://egghead.io/courses/start-learning-react) |   |    |
-|   | Course | Learn Redux - [Redux course - Wes Bos](https://learnredux.com/) |   |    |
-|   | Project | FCC React Project - [Build a Markdown Previewer](https://www.freecodecamp.com/challenges/build-a-markdown-previewer) |   |    |
-|   | Project |  FCC React Project - [Build a Recipe Box App](https://www.freecodecamp.com/challenges/build-a-recipe-box) |   |    |
-|   | Project |  Clone the Netflix interface using React - pulling data from [the Movie DB API](https://www.themoviedb.org/documentation/api) |   |    |
-|   | Project | Clone [this Admin template](http://rubix410.sketchpixy.com/ltr/dashboard) using React |   |    |
+|   | Course | Egghead.io - [Learn React](https://egghead.io/courses/start-learning-react) |   |    |
+|   | Course | Wes Bos - [Learn Redux](https://learnredux.com/) |   |    |
+|   | Project | FCC - [Build a Markdown Previewer](https://www.freecodecamp.com/challenges/build-a-markdown-previewer) |   |    |
+|   | Project | FCC - [Build a Recipe Box App](https://www.freecodecamp.com/challenges/build-a-recipe-box) |   |    |
+|   | Project | Clone the Netflix interface, pulling data from [the Movie DB API](https://www.themoviedb.org/documentation/api) |   |    |
+|   | Project | Clone [this Admin template](http://rubix410.sketchpixy.com/ltr/dashboard) |   |    |
 
 ## Backend (Node)
 | Progress | Type | Item | Project(s) | Date |
 |:------:|------|------|------------|:-------:|
-|   | Course | [Learn Node - Wes Bos](https://learnnode.com/) (Paid) OR Nodeschool.io [Tutorials](https://nodeschool.io/) |   |    |
-|   | Project | FCC Backend Project - [Timestamp Microservice](https://www.freecodecamp.com/challenges/timestamp-microservice) |   |    |
-|   | Project | FCC Backend Project- [Request Header Parser Microservice](https://www.freecodecamp.com/challenges/request-header-parser-microservice) |   |    |
-|   | Project | FCC Backend Project- [URL Shortener Microservice](https://www.freecodecamp.com/challenges/url-shortener-microservice) |   |    |
-|   | Project | FCC Backend Project- [Image Search Abstraction Layer](https://www.freecodecamp.com/challenges/image-search-abstraction-layer) |   |    |
-|   | Project | FCC Backend Project- [File Metadata Microservice](https://www.freecodecamp.com/challenges/file-metadata-microservice) |   |    |
-|   | Project | FCC Backend Project- [Build a Voting App](https://www.freecodecamp.com/challenges/build-a-voting-app) |   |    |
-|   | Project | FCC Backend Project- [Build a Nightlife Coordination App](https://www.freecodecamp.com/challenges/build-a-nightlife-coordination-app) |   |    |
-|   | Project | FCC Backend Project- [Chart the Stock Market](https://www.freecodecamp.com/challenges/chart-the-stock-market) |   |    |
-|   | Project | FCC Backend Project- [Manage a Book Trading Club](https://www.freecodecamp.com/challenges/manage-a-book-trading-club) |   |    |
-|   | Project | FCC Backend Project- [Build a Pinterest Clone](https://www.freecodecamp.com/challenges/build-a-pinterest-clone) |   |    |
-|   | Milestone | FreeCodeCamp BackEnd certificate |   |    |
-
+|   | Course | Nodeschool.io [Tutorials](https://nodeschool.io/) |   |    |
+|   | Project | FCC - [Timestamp Microservice](https://www.freecodecamp.com/challenges/timestamp-microservice) |   |    |
+|   | Project | FCC - [Request Header Parser Microservice](https://www.freecodecamp.com/challenges/request-header-parser-microservice) |   |    |
+|   | Project | FCC - [URL Shortener Microservice](https://www.freecodecamp.com/challenges/url-shortener-microservice) |   |    |
+|   | Project | FCC - [Image Search Abstraction Layer](https://www.freecodecamp.com/challenges/image-search-abstraction-layer) |   |    |
+|   | Project | FCC - [File Metadata Microservice](https://www.freecodecamp.com/challenges/file-metadata-microservice) |   |    |
+|   | Project | FCC - [Build a Voting App](https://www.freecodecamp.com/challenges/build-a-voting-app) |   |    |
+|   | Project | FCC - [Build a Nightlife Coordination App](https://www.freecodecamp.com/challenges/build-a-nightlife-coordination-app) |   |    |
+|   | Project | FCC - [Chart the Stock Market](https://www.freecodecamp.com/challenges/chart-the-stock-market) |   |    |
+|   | Project | FCC - [Manage a Book Trading Club](https://www.freecodecamp.com/challenges/manage-a-book-trading-club) |   |    |
+|   | Project | FCC - [Build a Pinterest Clone](https://www.freecodecamp.com/challenges/build-a-pinterest-clone) |   |    |
 
 ## Extra Goals
 * Learn to setup your own local developement environment
@@ -86,17 +78,6 @@
 * Learn about build tools like [Gulp](https://gulpjs.com/) and include them in projects
 * Learn about linting. Use linters like [ESLint](https://eslint.org/) for Javascript , [Stylelint](https://stylelint.io/) for CSS in your projects.
 * Learn about CSS conventions like [BEM](http://getbem.com/introduction/), [SMACSS](https://smacss.com/book/).
-* Every week, write a medium post about that week's learnings.
 * Make a habit of coding daily. Try [#100DaysofCode Challenge](http://100daysofcode.com/)
 
-
-## How to use the guide
-* To start using the guide, fork the repo.
-
-## Notes
-* This is a template. You can customize it, add or remove courses as per your choices.
-* If you like this repo and find it useful, please consider ★ starring it (on top right of the page) :)
-* If you have any questions, feel free to ask me on twitter : **[Shovan Chatterjee](https://twitter.com/shovan_ch)** [![Twitter Follow](https://img.shields.io/twitter/follow/shovan_ch.svg?style=flat-square&label=Follow%20@shovan_ch)](https://twitter.com/intent/follow?screen_name=shovan_ch)
-
-## Attribution
-Inspired by [p1xt guides](https://github.com/P1xt/p1xt-guides), [My journey to becoming a web developer from scratch without a CS degree (and what I learned from it)](https://medium.freecodecamp.com/my-journey-to-becoming-a-web-developer-from-scratch-without-a-cs-degree-2-years-later-and-what-i-4a7fd2ff5503)
+Inspired by [p1xt guides](https://github.com/P1xt/p1xt-guides) and [My journey to becoming a web developer from scratch without a CS degree (and what I learned from it)](https://medium.freecodecamp.com/my-journey-to-becoming-a-web-developer-from-scratch-without-a-cs-degree-2-years-later-and-what-i-4a7fd2ff5503)
